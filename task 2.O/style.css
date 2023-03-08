@@ -7,7 +7,7 @@
 }
 /*section 1*/
 .section1main{
-    background-image: url(blue_bg.png);
+    background-image: url(image/blue_bg.png);
    
     background-size:cover;
     width: 100%;
@@ -315,7 +315,7 @@ ul{
 footer{
     width: 100%;
     height:50vh;
-    background-image: url(Group\ 1131.png);
+    background-image: url(image/Group\ 1131.png);
     background-size:120%;
     background-position: 50% 30%;
     display: flex;
